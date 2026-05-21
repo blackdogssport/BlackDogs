@@ -2,21 +2,21 @@ const products = [
 
   {
     name:"Quả Bóng Rổ Step Back Newbee",
-    size:"'5 & 6'",
+    size:"5 & 6",
     price:"290.000đ",
     image:"images/qua-bong-ro-stepback-newbee-den-2.jpg"
   }
 
   {
     name:"Quả Bóng Rổ Step Back Newbee",
-    size:"'5 & 6'",
+    size:"5 & 6",
     price:"290.000đ",
     image:"images/qua-bong-ro-stepback-newbee-vang-1.jpg"
   },
 
   {
     name:"Quả Bóng Rổ Step Back Newbee",
-    size:"'5 & 6'",
+    size:"5 & 6",
     price:"290.000đ",
     image:"images/qua-bong-ro-stepback-newbee-vang-1.jpg"
   }
