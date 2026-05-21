@@ -1,24 +1,21 @@
 const products = [
 
   {
-    name:"Nike Elite Đen",
-    size:40,
-    price:"890.000đ",
-    image:"https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    name:"Quả Bóng Rổ Step Back Newbee",
+    size:"5 & 6",
+    price:"290.000đ",
+    image:"images/qua-bong-ro-stepback-newbee-vang-2.jpg"
   },
 
   {
-    name:"Nike Elite Hồng",
-    size:39,
-    price:"920.000đ",
-    image:"https://images.unsplash.com/photo-1549298916-b41d501d3772"
+    name:"Quả Bóng Rổ Step Back Newbee",
+    size:"5 & 6",
+    price:"290.000đ",
+    image:"images/qua-bong-ro-stepback-newbee-vang-1.jpg"
   },
 
   {
-    name:"Nike Elite Xám",
-    size:41,
-    price:"950.000đ",
-    image:"https://images.unsplash.com/photo-1600185365483-26d7a4cc7519"
+    
   }
 
 ];
