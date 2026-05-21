@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>77 Store</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+  <input
+    type="text"
+    placeholder="Tìm barcode..."
+    id="search"
+  >
+
+  <div class="sizes">
+
+    <button onclick="filterProducts('all')">
+      Tất cả
+    </button>
+
+    <button onclick="filterProducts(38)">38</button>
+    <button onclick="filterProducts(39)">39</button>
+    <button onclick="filterProducts(40)">40</button>
+    <button onclick="filterProducts(41)">41</button>
+    <button onclick="filterProducts(42)">42</button>
+    <button onclick="filterProducts(43)">43</button>
+    <button onclick="filterProducts(44)">44</button>
+    <button onclick="filterProducts(45)">45</button>
+    <button onclick="filterProducts(46)">46</button>
+    <button onclick="filterProducts(47)">47</button>
+  </div>
+
+  <h2>Balo & Tất Bóng Rổ</h2>
+
+  <div class="products" id="products"></div>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
