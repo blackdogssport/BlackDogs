@@ -1,24 +1,24 @@
 const products = [
 
   {
-    name:"Quả Bóng Rổ Step Back Newbee",
-    size:"5 & 6",
-    price:"290.000đ",
-    image:"images/qua-bong-ro-stepback-newbee-den-2.jpg"
-  }
-
-  {
-    name:"Quả Bóng Rổ Step Back Newbee",
+    name:"Quả Bóng Rổ Step Back Newbee – Bóng Trẻ Em Size 5 & 6",
     size:"5 & 6",
     price:"290.000đ",
     image:"images/qua-bong-ro-stepback-newbee-vang-1.jpg"
   },
 
   {
-    name:"Quả Bóng Rổ Step Back Newbee",
+    name:"Quả Bóng Rổ Step Back Newbee – Bóng Trẻ Em Size 5 & 6",
     size:"5 & 6",
     price:"290.000đ",
-    image:"images/qua-bong-ro-stepback-newbee-vang-1.jpg"
+    image:"images/qua-bong-ro-stepback-newbee-den-2.jpg"
+  },
+
+  {
+    name:"Nike Elite Xám",
+    size:41,
+    price:"950.000đ",
+    image:"https://images.unsplash.com/photo-1600185365483-26d7a4cc7519"
   }
 
 ];
